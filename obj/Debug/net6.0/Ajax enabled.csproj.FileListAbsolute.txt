@@ -1,0 +1,31 @@
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\appsettings.Development.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\appsettings.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.staticwebassets.runtime.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.exe
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.deps.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.runtimeconfig.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.dll
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\bin\Debug\net6.0\Ajax enabled.pdb
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.csproj.AssemblyReference.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.AssemblyInfoInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.AssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.csproj.CoreCompileInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.MvcApplicationPartsAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.RazorAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.RazorAssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets\msbuild.Ajax enabled.Microsoft.AspNetCore.StaticWebAssets.props
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets\msbuild.build.Ajax enabled.props
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ajax enabled.props
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ajax enabled.props
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets.pack.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets.build.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\staticwebassets.development.json
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\scopedcss\bundle\Ajax enabled.styles.css
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\scopedcss\projectbundle\Ajax enabled.bundle.scp.css
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.dll
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\refint\Ajax enabled.dll
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.pdb
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\Ajax enabled.genruntimeconfig.cache
+D:\simplIlearn\Phase-3\Assisted projects\Ajax enabled\Ajax enabled\obj\Debug\net6.0\ref\Ajax enabled.dll
